@@ -1,4 +1,5 @@
 # Step-by-Step Guide to Run the Project and Execute Tests
+**Author: George Kplivi**
 
 ## Step 1: Set Up Your Environment
 
